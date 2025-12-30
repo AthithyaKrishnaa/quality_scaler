@@ -4,6 +4,22 @@ This repository provides a complete pipeline to enhance video quality using the 
 
 ---
 
+## 🔗 Interactive Demo (Synchronized Playback)
+
+👉 **Live GitHub Pages Demo:**  
+https://athithyakrishnaa.github.io/2X-Swin2SR-VideoEnhancer/
+
+This interactive demo allows you to:
+- ▶️ Play **original and enhanced videos simultaneously**
+- ⏸ Pause both videos together
+- Visually compare **frame-level improvements** from Swin2SR ×2
+- Observe detail recovery in low-resolution CCTV footage
+
+> **Note:** Videos in the demo are resized for web preview and layout consistency.  
+> Full-resolution enhanced outputs are preserved in the actual result files.
+
+---
+
 ## Features
 
 * **2x Upscaling**: Efficiently doubles the resolution of input video frames.
